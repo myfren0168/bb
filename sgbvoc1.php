@@ -3,19 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 include "rendytampans.php";
 	echo color("white","\e[61m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
 	echo "\n";
-echo color("white","╔══╗╔═══╦═╗─╔╦═══╦═╗─╔╦═══╗
-║╔╗║║╔═╗║║╚╗║║╔═╗║║╚╗║║╔═╗║
-║╚╝╚╣║─║║╔╗╚╝║║─║║╔╗╚╝║║─║║
-║╔═╗║╚═╝║║╚╗║║╚═╝║║╚╗║║╚═╝║
-║╚═╝║╔═╗║║─║║║╔═╗║║─║║║╔═╗║
-╚═══╩╝─╚╩╝─╚═╩╝─╚╩╝─╚═╩╝─╚╝
-                   ╔═══╦═══╦═══╦═══╦═╗╔═╦╗──╔╗
-                   ║╔═╗║╔═╗║╔══╣╔═╗║║╚╝║║╚╗╔╝║
-                   ║║─╚╣╚═╝║╚══╣║─║║╔╗╔╗╠╗╚╝╔╝
-                   ║║─╔╣╔╗╔╣╔══╣╚═╝║║║║║║╚╗╔╝
-                   ║╚═╝║║║╚╣╚══╣╔═╗║║║║║║─║║
-                   ╚═══╩╝╚═╩═══╩╝─╚╩╝╚╝╚╝─╚╝");
-	echo "\n";
+
 	echo color("white","\e[61m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
 	echo color("white","\e[61mHallo SgbTeam, Iam @Bananacreamy\n");
 	echo color("white","\e[61m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
@@ -110,8 +98,8 @@ ulang:
          $pilih1 = trim(fgets(STDIN));
          if($pilih1 == "y" || $pilih1 == "Y"){
          //if($pilih1 == "y" && strpos($no, "628")){
-         echo color("white","▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Pin Gopay Mu = 666123 ▬▬▬▬▬▬▬▬▬▬▬▬")."\n";
-         $data2 = '{"pin":"666123"}';
+         echo color("white","▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Pin Gopay Mu = 168168 ▬▬▬▬▬▬▬▬▬▬▬▬")."\n";
+         $data2 = '{"pin":"168168"}';
          $getotpsetpin = request("/wallet/pin", $token, $data2, null, null, $uuid);
          echo "Otp pin: ";
          $otpsetpin = trim(fgets(STDIN));
