@@ -1,10 +1,3 @@
-# SCRIPT BY BANANACRAMY
+# SCRIPT ok
 
 # KEBUTUHAN GOJEK MU, ADA DISINI SEMUA.
-
-# TUTORIAL PAKAI?
-LANGSUNG CHAT TELEGRAM
-
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-# @BANANACREAMY
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
